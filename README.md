@@ -8,6 +8,7 @@ This project demonstrates practical implementation of concepts such as programmi
 ---
 
 ## 🎯 Objectives
+
 - To design and develop a user-friendly application
 - To implement core concepts of software engineering
 - To provide an efficient and scalable solution
