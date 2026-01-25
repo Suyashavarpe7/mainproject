@@ -18,6 +18,7 @@ This project demonstrates practical implementation of concepts such as programmi
 ---
 
 ## 🛠️ Technologies Used
+
 - **Programming Language:** Python / Java / C++ / JavaScript  
 - **Frontend:** HTML, CSS, JavaScript (if applicable)  
 - **Backend:** Flask / Django / Node.js (if applicable)  
