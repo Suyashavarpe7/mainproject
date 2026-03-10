@@ -1,6 +1,6 @@
 ## 📌 Project Overview
 
-**MainProject** is a comprehensive software Application developed to solve real-world problems efficiently using modern technologies.  
+**MainProject** is a comprehensive software Application developed to solve real-world problems efficiently and effeciently using modern technologies.  
 This project demonstrates practical implementation of concepts such as programming, database management, system design.
 
 ---
