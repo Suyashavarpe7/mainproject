@@ -32,5 +32,3 @@ This project demonstrates practical implementation of concepts such as programmi
 - Error handling and validations
 
 ---
-
-## 📂 Project Structure
