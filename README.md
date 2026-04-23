@@ -4,7 +4,6 @@
 This project demonstrates practical implementation of concepts such as programming, database management, system design.
 
 ---
-
 ## 🎯 Objectives
 
 - To design and develop a user-friendly application
