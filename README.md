@@ -6,7 +6,7 @@ This project demonstrates practical implementation of concepts such as programmi
 
 ---
 
-## 🎯 Objectives And Features
+## 🎯 Objectives And Features are
 
 - To design and develop a user-friendly application
 - To implement core concepts of software engineering
